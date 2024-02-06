@@ -1,0 +1,140 @@
+*{
+    padding: 0;
+margin: 0;
+box-sizing: border-box;
+font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    
+background-color: gray;
+}
+
+
+
+.swiper {
+    width: 380px;
+    height: 650px;  
+display: flex;
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,0,86,1) 68%, rgba(55,55,55,1) 100%);
+border: 1px solid #000;
+margin-top: 50px;
+border-radius: 20px;
+
+
+position: relative;
+}
+
+
+
+
+.swiper-slide {
+    position: absolute;
+font-size: 27px ;
+color: white;
+}
+
+.h4 {
+    padding-top: 40px;
+font-size: 30px;
+padding-left:  20px;
+}
+
+
+.thgb {
+    padding-top: 20px;
+font-size: 40px;
+padding-left: 20px;
+}
+
+
+.vosmin {
+    padding-top: 20px;
+    font-size: 40px;
+    padding-left: 20px;
+}
+
+
+.bezlim {
+    font-size: 12px ;
+padding-top: 20px;
+padding-left: 20px;
+}
+
+.podarok {
+    padding-top: 60px;
+padding-left: 20px;
+padding-bottom: 10px;
+}
+
+.hr1 {
+color: gray;
+}
+
+.perenos {
+padding: 10px 20px;
+}
+
+
+.internet {
+padding: 10px 20px;
+}
+
+
+.h3 {
+    position: absolute;
+bottom: 35px;
+
+}
+
+.podkl {
+    width: 140px;
+height: 50px;
+background-color: yellow;
+color: #000;
+border-radius: 20px;
+position: absolute;
+left: 60%;
+bottom: 20px;
+border: none;
+font-size: 16px;
+}
+
+
+
+.monitor {
+    padding: 10px 20px;
+font-size: 20px;    
+}
+    
+
+    .podrobne {
+        position: absolute;
+left: 60%;
+bottom: 5px;
+font-size: 10px;    
+padding-left: 10px;
+}
+
+
+.vhod {
+    font-size: 12px ;
+padding-top: 20px;
+padding-left: 20px;
+}
+
+.trmb{
+    font-size: 12px ;
+padding-top: 20px;
+padding-left: 20px;
+
+}
+
+
+.rbmes {
+    
+    position: absolute;
+bottom: 24px;
+
+}
